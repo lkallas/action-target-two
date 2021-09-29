@@ -6,7 +6,7 @@
   "author": "Lennar Kallas <lennar.kallas@gmail.com>",
   "dependencies": {
     "@sixfold/typed-primitives": "^2.2.0",
-    "rimraf": "^2.6.0",
+    "rimraf": "^3.0.2",
     "semver": "^7.3.5"
   },
   "devDependencies": {
